@@ -87,10 +87,9 @@ for perm in permutations(range(10),8):
         print("MORE",MORE)
         print("MONEY",MONEY)
 </CODE>
+<h2>Sample Output</h2>
 SEND = 9567<br>
 MORE = 1085<br>
-<hr>
 MONEY = 10652<br>
-<hr>
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
